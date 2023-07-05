@@ -1,7 +1,12 @@
 The adress download:
 https://www.proxmox.com/en/downloads
 
-Proxmox binary comes in form of .iso file; it would be a better Ideo to use a USB and Rufus to achieve a faster Installation. 
+For more detail and information use https://pve.proxmox.com/pve-docs/ . 
+
+https://pve.proxmox.com/pve-docs/pve-admin-guide.html
+https://pve.proxmox.com/pve-docs/pve-admin-guide.pdf
+
+Proxmox binary comes in form of ***.iso*** file; it would be a better Ideo to use a USB and a USB_Imager z.b. Rufus to achieve a faster Installation. 
 
 At the beginning we get a screen of choices; just select " install proxmox VE" 
 

@@ -1,6 +1,6 @@
 # What is proxmox:
-
-a Virtualization Platform
+Proxmox is a debian based, 
+Virtualization Platform
 
 also lets running containers. 
 
