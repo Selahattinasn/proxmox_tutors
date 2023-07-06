@@ -102,3 +102,9 @@ We have "Directory " and "ZFS" . ZFS is suitable for big Data Storages.
 
 #Subscription
 ![local_user_mng2](images/console22.png)
+
+#Blue Buttons
+This two buttons are very imortant 
+one to install VM's
+one to make Containers
+![local_user_mng2](images/console23.png)
