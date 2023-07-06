@@ -92,7 +92,13 @@ Between individual partiitons, we see LVM .Actually its correpands with Blackmar
 ![local_user_mng2](images/console18.png)
 ![local_user_mng2](images/console19.png)
 
+The actual data useage w will see under LVM-Thin
+![local_user_mng2](images/console20.png)
 
-![local_user_mng2](images/console18.png)
-![local_user_mng2](images/console18.png)
-![local_user_mng2](images/console18.png)
+We have "Directory " and "ZFS" . ZFS is suitable for big Data Storages. 
+
+#Task History
+![local_user_mng2](images/console21.png)
+
+#Subscription
+![local_user_mng2](images/console22.png)
